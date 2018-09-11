@@ -9,5 +9,8 @@ module.exports = {
     css: [
         {src:'~/assets/css/main.css'},
         {src:'~/assets/css/animate.css'}
-    ]
+    ],
+    generate: {
+        dir: 'public'
+    }
 }

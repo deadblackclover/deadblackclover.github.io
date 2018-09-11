@@ -1,0 +1,29 @@
+{
+  "name": "deadblackclover.gitlab.io",
+  "version": "1.0.0",
+  "description": "Site",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/deadblackclover/deadblackclover.gitlab.io.git"
+  },
+  "keywords": [
+    "site"
+  ],
+  "author": "DEADBLACKCLOVER <deadblackclover@protonmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://gitlab.com/deadblackclover/deadblackclover.gitlab.io/issues"
+  },
+  "homepage": "http://deadblackclover.gitlab.io",
+  "dependencies": {
+    "nuxt": "^1.4.2",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  }
+}

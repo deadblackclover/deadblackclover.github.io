@@ -1,0 +1,86 @@
+@keyframes logotext {
+	from {
+		text-shadow: -10px 0 red,
+                 10px 0 blue,
+                 0 0 skyblue;
+        transform: skewX(30deg);
+    }
+    2%{
+    	transform: skewX(0deg);
+    	text-shadow: initial;
+    }
+    to {
+    	transform: skewX(0deg);
+    }
+}
+
+@font-face{
+    font-family: Cyberspace;
+    src: url('~assets/fonts/CyberspaceRacewayFront.otf');
+}
+
+html, body, #__nuxt, #__layout, .layout {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #000;
+	height: 100%;
+}
+
+.layout {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.img {
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 40px;
+	height: 40px;
+}
+
+.logo {
+	color: green;
+	margin-top: 50px;
+	font-family: 'Cyberspace';
+	font-size: 5em;
+	animation: logotext 5s infinite ease;
+}
+
+.stack {
+	display: flex;
+	flex-direction: row;
+}
+
+.links {
+	float: right;
+}
+
+.gitlab {
+	background-image: url('~/assets/img/icons8-gitlab.png');
+}
+
+.html5 {
+	background-image: url('~/assets/img/icons8-html-5.png');
+}
+
+.css3 {
+	background-image: url('~/assets/img/icons8-css3.png');
+}
+
+.javascript {
+	background-image: url('~/assets/img/icons8-javascript.png');
+}
+
+.docker {
+	background-image: url('~/assets/img/icons8-docker.png');
+}
+
+.blockchain {
+	background-image: url('~/assets/img/icons8-blockchain.png');
+}

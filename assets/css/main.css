@@ -19,22 +19,44 @@
     src: url('~assets/fonts/CyberspaceRacewayFront.otf');
 }
 
+@font-face{
+    font-family: AnonymousPro;
+    src: url('~assets/fonts/AnonymousPro-Regular.ttf');
+}
+
 html, body, #__nuxt, #__layout, .layout {
 	height: 100%;
 }
 
 body {
+	font-family: 'AnonymousPro';
 	margin: 0;
-	padding: 0;
+	padding: 0 15px;
 	background-color: #000;
 	height: 100%;
 }
 
+a, a:visited, a:active {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	text-decoration-color: green;
+}
+
 .layout {
+	
+}
+
+header {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	height: 100%;
+	color: green;
 }
 
 .img {
@@ -45,11 +67,18 @@ body {
 }
 
 .logo {
-	color: green;
-	margin-top: 50px;
+	margin: 0;
 	font-family: 'Cyberspace';
-	font-size: 6.7vw;
+	font-size: 6.5vw;
+	font-weight: normal;
 	animation: logotext 5s infinite ease;
+}
+
+.icons {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: inherit;
 }
 
 .stack {
@@ -57,30 +86,20 @@ body {
 	flex-direction: row;
 }
 
-.links {
-	float: right;
+main {
+	color: white;
+	padding: 15px 0;
 }
 
-.gitlab {
-	background-image: url('~/assets/img/icons8-gitlab.png');
+.items {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
 }
 
-.html5 {
-	background-image: url('~/assets/img/icons8-html-5.png');
-}
-
-.css3 {
-	background-image: url('~/assets/img/icons8-css3.png');
-}
-
-.javascript {
-	background-image: url('~/assets/img/icons8-javascript.png');
-}
-
-.docker {
-	background-image: url('~/assets/img/icons8-docker.png');
-}
-
-.blockchain {
-	background-image: url('~/assets/img/icons8-blockchain.png');
+.items_item {
+	margin-right: 10px;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
 }

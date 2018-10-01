@@ -1,7 +1,7 @@
 <template>
 	<div class="layout">
 		<header>
-			<h1 class="logo">
+			<h1 class="logo glitch">
 				DEADBLACKCLOVER
 			</h1>
 			<h3>
@@ -18,25 +18,62 @@
 			</div>
 		</header>
 		<main>
-			<section>
+			<section id="projects">
 				<h3>
 					Projects
 				</h3>
 				<div class="items">
-					<div class="items_item">lofiTorrent</div>
-					<div class="items_item">Ames</div>
-					<div class="items_item">LTTC</div>
+					<a href="https://deadblackclover.gitlab.io/lofitorrent/" class="items_item">
+						<img src="~/assets/img/lofitorrent.png">
+						<p>lofiTorrent</p>
+					</a>
+					<a href="https://gitlab.com/deadblackclover/Ames" class="items_item">
+						<img src="~/assets/img/ames.png">
+						<p>Ames</p>
+					</a>
+					<a href="https://deadblackclover.gitlab.io/lttc/" class="items_item">
+						<img src="~/assets/img/lttc.png">
+						<p>LTTC</p>
+					</a>
 				</div>
-				<a href="https://gitlab.com/deadblackclover">More project</a>
+				<a href="https://gitlab.com/deadblackclover" class="glitch">More project</a>
 			</section>
-			<section>
+			<section id="art">
 				<h3>
-					Link
+					Art
 				</h3>
 				<div class="items">
-					<div class="items_item">NPM</div>
-					<div class="items_item">PixelFed</div>
-					<div class="items_item">Friendica</div>
+					<a href="http://deadblackclover.gitlab.io/Planedoj/" class="items_item">
+						<img src="~/assets/img/pl.png">
+						<p>Planedoj</p>
+					</a>
+					<a href="https://deadblackclover.gitlab.io/WriteCodeEveryDay/" class="items_item">
+						<img src="~/assets/img/wced.png">
+						<p>WriteCodeEveryDay</p>
+					</a>
+					<a href="https://deadblackclover.gitlab.io/CodeDay/" class="items_item">
+						<img src="~/assets/img/cd.png">
+						<p>CodeDay</p>
+					</a>
+				</div>
+			</section>
+			<section id="links">
+				<h3>
+					Links
+				</h3>
+				<div class="items">
+					<a href="https://www.npmjs.com/~deadblackclover" class="items_item">
+						<img src="~/assets/img/npm.svg">
+						<p>NPM</p>
+					</a>
+					<a href="https://pixelfed.social/deadblackclover" class="items_item">
+						<img src="~/assets/img/pixelfed.svg">
+						<p>PixelFed</p>
+					</a>
+					<a href="https://libranet.de/profile/deadblackclover" class="items_item">
+						<img src="~/assets/img/Friendica.png">
+						<p>Friendica</p>
+					</a>
 				</div>
 			</section>
 		</main>

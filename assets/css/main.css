@@ -42,8 +42,7 @@ a, a:visited, a:active {
 }
 
 a:hover {
-	text-decoration: underline;
-	text-decoration-color: green;
+	border-bottom: 2px solid green;
 }
 
 .layout {
@@ -71,6 +70,9 @@ header {
 	font-family: 'Cyberspace';
 	font-size: 6.5vw;
 	font-weight: normal;
+}
+
+.glitch {
 	animation: logotext 5s infinite ease;
 }
 
@@ -99,7 +101,16 @@ main {
 
 .items_item {
 	margin-right: 10px;
+	margin-bottom: 5px;
 	text-align: center;
 	display: flex;
 	flex-direction: column;
+}
+
+.items_item img {
+	height: 100px;
+}
+
+#links img {
+	max-width: 170px;
 }

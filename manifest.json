@@ -1,9 +1,11 @@
 {
   "name": "DEADBLACKCLOVER",
+  "short_name": "Javascript and Web developer",
   "lang": "en-US",
   "start_url": "/",
-  "display": "browser",
+  "display": "standalone",
   "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
   "icons": [
     {
       "src": "\/icons/android-icon-36x36.png",

@@ -1,0 +1,52 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+a, a:active, a:link, a:visited {
+	text-decoration: none;
+	color: black;
+	border-bottom: 2px solid black;
+}
+
+ol {
+	padding-left: 16px;
+}
+
+li {
+	margin: 5px 0;
+}
+
+body {
+	padding: 0 15px;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, Fira, Sans, "Droid Sans", "Helvetica Neue", sans-serif;
+	background-image: url('../images/back.png');
+	background-repeat: repeat;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+main {
+	border-radius: 5px;
+	box-shadow: 0 0 5px black;
+	max-width: 800px;
+	padding: 15px;
+	background-color: white;
+}
+
+.links, .contacts {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	flex-wrap: wrap;
+	padding: 10px;
+}
+
+.links a {
+	margin: 0 5px;
+}

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>DEADBLACKCLOVER</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width initial-scale=1">
+	<link rel="stylesheet" href="style/style.css">
+	<script>
+		if (‘serviceWorker’ in navigator) {
+			window.addEventListener(‘load’, function() {
+				navigator.serviceWorker.register(‘/sw.js’).then(
+				function(registration) {
+					// Registration was successful
+					console.log(‘ServiceWorker registration successful with scope: ‘, registration.scope); 
+				},
+				function(err) {
+					// registration failed :(
+					console.log(‘ServiceWorker registration failed: ‘, err);
+				});
+			});
+		}
+	</script>
+	<link rel="apple-touch-icon" sizes="57x57" href="icons/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="icons/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="icons/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="icons/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="icons/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="icons/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="icons/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="icons/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="icons/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="icons/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="icons/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="icons/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+</head>
+<body>
+	<main>
+		<section>
+			<h1>DEADBLACKCLOVER</h1>
+			<span>Javascript and Web developer</span>
+			<h3>Project</h3>
+			<ol>
+				<li><a href="https://gitlab.com/deadblackclover/Ames">Ames</a> - Decentralized and free messenger</li>
+				<li><a href="https://deadblackclover.gitlab.io/lofitorrent/">lofiTorrent</a> - Open source browser torrent client</li>
+				<li><a href="https://deadblackclover.gitlab.io/lttc/">LTTC</a> - Listen to the crime</li>
+			</ol>
+			<h3>Art</h3>
+			<ol>
+				<li><a href="http://deadblackclover.gitlab.io/Planedoj/">Planedoj</a></li>
+				<li><a href="https://deadblackclover.gitlab.io/WriteCodeEveryDay/">WriteCodeEveryDay</a></li>
+				<li><a href="https://deadblackclover.gitlab.io/CodeDay/">CodeDay</a></li>
+			</ol>
+			<div class="links">
+				<a href="https://www.npmjs.com/~deadblackclover">npmjs.com/~deadblackclover</a>
+				<a href="https://pixelfed.social/deadblackclover">PixelFed</a>
+				<a href="https://libranet.de/profile/deadblackclover">Friendica</a>
+			</div>
+			<div class="contacts">
+				email: deadblackclover@protonmail.com
+			</div>
+		</section>
+	</main>
+</body>
+</html>

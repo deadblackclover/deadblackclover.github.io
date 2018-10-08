@@ -1,3 +1,15 @@
+@media (min-width: 401px) {
+	main {
+		padding: 30px;
+	}
+}
+
+@media (max-width: 400px) {
+	main {
+		padding: 10px;
+	}
+}
+
 html, body {
 	margin: 0;
 	padding: 0;
@@ -11,7 +23,7 @@ a, a:active, a:link, a:visited {
 }
 
 ol {
-	padding-left: 16px;
+	padding-left: 20px;
 }
 
 li {
@@ -33,7 +45,6 @@ main {
 	border-radius: 5px;
 	box-shadow: 0 0 5px black;
 	max-width: 800px;
-	padding: 15px;
 	background-color: white;
 }
 

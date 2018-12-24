@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/deadblackclover
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://deadblackclover.gitlab.io
+  * I am deadblackclover (https://keybase.io/deadblackclover) on keybase.
+  * I have a public key ASC6EHy6wLcDaN_p3DZnskNZV33TcL88S7tcc5MnNSU5Qwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101a4102690dcf0422c212c2e6ba1e6931741fc55ebb7275609f277638a517006620a",
+      "host": "keybase.io",
+      "kid": "0120ba107cbac0b70368dfe9dc3667b24359577dd370bf3c4bbb5c739327352539430a",
+      "uid": "c75ef295117db8d3c6e1b1e387e61819",
+      "username": "deadblackclover"
+    },
+    "merkle_root": {
+      "ctime": 1545665380,
+      "hash": "240afa726c3b333092fa413c9507d390d5e8684867175367702473a43fa25722ec068f333ca29b20ac37777fc35e4ae0f68c2a748682f22d2a7f281935f205ca",
+      "hash_meta": "127c8a22ccf495dc9677a0d3b419e1b53e290aae6a436e647b475aa4ffa43a0a",
+      "seqno": 4191062
+    },
+    "service": {
+      "entropy": "6B/rcEvgKhE9SmZ7763fc8yK",
+      "hostname": "deadblackclover.gitlab.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.0"
+  },
+  "ctime": 1545665431,
+  "expire_in": 504576000,
+  "prev": "47b733dde16a303f7cb09346e9e8a572f5b3e0e183d5d2fc02751303c01e6719",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEguhB8usC3A2jf6dw2Z7JDWVd903C/PEu7XHOTJzUlOUMKp3BheWxvYWTESpcCC8QgR7cz3eFqMD98sJNG6eilcvWz4OGD1dL8AnUTA8AeZxnEIPY7NaEGjqqU5dtqygvCbeDtyHzvRa8fqDsbmC6of4LYAgHCo3NpZ8RADG/DWn3rGAgyuWSG1QMaBm+Fgd2moyOIu9cHpKLQrMc8ovIk9aLWkgFxp8c/NU4Wdyp/f7UVnGCHewwYfYd2AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEnf7IDKSota4ZyGNTGuZnPMj6XQ35ZBvhqAvY8WRz3Oo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/deadblackclover
+
+==================================================================

@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Hagin';
-  src: url('fonts/HaginCapsMedium.eot?#iefix') format('embedded-opentype'), url('fonts/HaginCapsMedium.otf') format('opentype'), url('fonts/HaginCapsMedium.woff') format('woff'), url('fonts/HaginCapsMedium.ttf') format('truetype');
+  src: url('/fonts/HaginCapsMedium.eot?#iefix') format('embedded-opentype'), url('/fonts/HaginCapsMedium.otf') format('opentype'), url('/fonts/HaginCapsMedium.woff') format('woff'), url('/fonts/HaginCapsMedium.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }

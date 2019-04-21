@@ -26,8 +26,8 @@ html, body {
 
 a, a:active, a:link, a:visited {
 	text-decoration: none;
-	color: black;
-	border-bottom: 2px solid black;
+	color: white;
+	border-bottom: 2px solid white;
 }
 
 ol {
@@ -55,7 +55,8 @@ h1, h2, h3 {
 main {
 	box-shadow: 5px 5px 5px black;
 	max-width: 800px;
-	background-color: white;
+	background-color: #323232;
+	color: white;
 }
 
 .links, .contacts {

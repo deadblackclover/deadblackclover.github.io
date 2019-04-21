@@ -1,6 +1,6 @@
 @font-face {
-  font-family: 'Spaceman';
-  src: url('/fonts/Spaceman.ttf') format('truetype');
+  font-family: 'Molot';
+  src: url('/fonts/Molot.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
@@ -21,7 +21,7 @@ html, body {
 	margin: 0;
 	padding: 0;
 	height: 100%;
-	font-family: 'Spaceman', Verdana, Tahoma, Arial, Sans-Serif;
+	font-family: 'Molot', Verdana, Tahoma, Arial, Sans-Serif;
 }
 
 a, a:active, a:link, a:visited {

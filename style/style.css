@@ -71,7 +71,7 @@ main {
 	color: white;
 }
 
-.links, .contacts, .icons {
+.links, .contacts, .icons, .license {
 	display: flex;
 	flex-direction: row;
 	justify-content: center;

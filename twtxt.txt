@@ -6,7 +6,19 @@
 #
 # nick        = deadblackclover
 # url         = https://deadblackclover.cipherdogs.net/twtxt.txt
-# avatar      = 
-# description = 
+# avatar      = https://deadblackclover.cipherdogs.net/images/deadblackclover.jpg
+# description = Blockchain Hacker | Decentralized enthusiast | FP hobbyist | CTF
+#
+# followers   = 0
+# following   = 4
+#
+# follow = adi https://twtxt.net/user/adi/twtxt.txt
+# follow = prologic https://twtxt.net/user/prologic/twtxt.txt
+# follow = usr https://twtxt.net/user/usr/twtxt.txt
+# follow = astrophotography https://twtxt.net/user/astrophotography/twtxt.txt
+#
 
 2022-02-19T16:30:00Z	Happy Hacking!
+2022-02-19T16:32:00Z	Blockchain на моей шеи
+2022-02-19T16:32:13Z	Еда - это анархия! Живи по своим правилам!
+2022-02-19T16:33:01Z	Псы Всегда Попадают В Рай

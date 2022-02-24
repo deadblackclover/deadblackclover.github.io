@@ -10,12 +10,13 @@
 # description = Blockchain Hacker | Decentralized enthusiast | FP hobbyist | CTF
 #
 # followers   = 0
-# following   = 4
+# following   = 5
 #
 # follow = adi https://twtxt.net/user/adi/twtxt.txt
 # follow = prologic https://twtxt.net/user/prologic/twtxt.txt
 # follow = usr https://twtxt.net/user/usr/twtxt.txt
 # follow = astrophotography https://twtxt.net/user/astrophotography/twtxt.txt
+# follow = novaburst https://twt.nfld.uk/user/novaburst/twtxt.txt
 #
 
 2022-02-19T16:30:00Z	Happy Hacking!

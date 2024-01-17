@@ -4,9 +4,9 @@ https://keybase.io/deadblackclover
 
 I hereby claim:
 
-  * I am an admin of https://deadblackclover.cipherdogs.net
+  * I am an admin of https://deadblackclover.net
   * I am deadblackclover (https://keybase.io/deadblackclover) on keybase.
-  * I have a public key with fingerprint 3821 A3C4 4F2C A87B 6DD8  6DA0 283B 3D4F 7A42 937D
+  * I have a public key ASAv0ZbHtcHVwi-fr8R8R8ihmSzliWvRnpSzjWXDNtrwVgo
 
 To do so, I am signing this object:
 
@@ -14,51 +14,39 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "0101a4102690dcf0422c212c2e6ba1e6931741fc55ebb7275609f277638a517006620a",
-      "fingerprint": "3821a3c44f2ca87b6dd86da0283b3d4f7a42937d",
       "host": "keybase.io",
-      "key_id": "283b3d4f7a42937d",
-      "kid": "0101a4102690dcf0422c212c2e6ba1e6931741fc55ebb7275609f277638a517006620a",
+      "kid": "01202fd196c7b5c1d5c22f9fafc47c47c8a1992ce5896bd19e94b38d65c336daf0560a",
       "uid": "c75ef295117db8d3c6e1b1e387e61819",
       "username": "deadblackclover"
     },
+    "merkle_root": {
+      "ctime": 1705474751,
+      "hash": "6453942bb8e3a0ee0d36b4e98541afcb0f8d26b464749b941bba1cd545c9417749532376f4bb1ec38452b4c4dcba2817307f4e00e185fdd6c96b09e4367f0161",
+      "hash_meta": "22edc4b7eded8e7a9e49260a0aae80f1bc7347f410efc24195f9c83532f27660",
+      "seqno": 25365782
+    },
     "service": {
-      "hostname": "deadblackclover.cipherdogs.net",
+      "entropy": "6rPEO8y0lDSDWPRYxPSG0R2t",
+      "hostname": "deadblackclover.net",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1655266815,
-  "expire_in": 157680000,
-  "prev": "0e71fd49eb9692afd491d0881db517abdb192397cd046440f87f5783f88102c1",
-  "seqno": 112,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.4"
+  },
+  "ctime": 1705474778,
+  "expire_in": 504576000,
+  "prev": "8b614452b6a363e3fa07df254b759919df487f7b5e24a3c0f9a51936ae1bbb0c",
+  "seqno": 137,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.1.13
-Comment: https://keybase.io/crypto
-
-yMIxAnicrVJbSBVBGD5aSR6SRIqgG7JFUZ1sZnZ3ZvfkQ3YhoiK7oVZ22NmZPW7a
-7ml3jyknEbpHGRlBRXCgG92oI3bzoaDEMqggekg0eoiooF4kugjRZVbqrccGhrl9
-3/d//8f0FI2IRPPm5o89Mm9qW33e4/ud6Qi9VPsrI1GXNUvxjFTPhxfewLgfJOpt
-JsUlAAE0FAgQ1gEzLaAgZCIoJsfUgBzrMiQKtExV5ZQSRFQMdAsRgmXNUCEBAGME
-DCkmWbaT5F7Ks51AyMoagoZsKoqFTEMjFDOmYWYApMlUZopFDAXpMmGCWOf6IUOY
-o4bPy2xX3IlDYtjeP/D/2Xd6WM4kKreQrkJIGNWYbGIOKeSyRjiGGtRDoM89x9jK
-BZpxg9EGw6w3G9xG7kktMUk8NtomD/MNG/o3sMy0U3XcY27SL3N4IERTnhu4ptsg
-sHVBkPLjoVbQnArJ2zlN/JFNUNthImDBEDK+7TpSHAqkGdhhHYhVFWGsQTUm8aaU
-7fGEHSJUgjUgRliHN4apcQItpuic6lhHRriFDGgaZFSEYlBGoY5knZgMKFhRgKUR
-SyWabAkIQCaUwka3Oa7QhkgYNZJC1LeTjhGkPS61dN/bNDKSF40UjMoPv14kWlj8
-90PeXzw6cmDOnWjX2uOTcsvbZnaCgdNlG/aXrMnbvbD2cFWuY8fkrsH44fj18UFh
-vKZ3qCdg77yOnX3Z7ofdZ8efWXhs745o4RPndgUozT2IrS5vfVFVfWDvsw+nogt2
-7dpYeaQ6F7nrX1n+8tPU/tjPYOXSoT0l69pm5KOldeczvdPUaNXzzJ6B6PaiQ+23
-Vj94H/ne11o++LlqyYQpWfZxIFnx4+qnOJr8tHbFyS2vm7rSNYuG+qd3fiv9ss8a
-bMtNnJA+evDe40fF8y/Tn9eSSzaP2/D1Qvmy4znr5rTmzJieTTcqK86turh+fnr2
-mxu33mY7sltmlezPHjtR+upr78fn3c8WNC1uLzhU9BsXHkMo
-=hURM
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgL9GWx7XB1cIvn6/EfEfIoZks5Ylr0Z6Us41lwzba8FYKp3BheWxvYWTES5cCzInEIIthRFK2o2Pj+gffJUt1mRnfSH97XiSjwPmlGTauG7sMxCAIkMVHGjTzObAoLf/EM+nFtYTF4iduzI1298FXRPCgfgIBwqNzaWfEQKKQYALGZQeH2zTF7M+9SYVN7Z6khB0OrRn1PbT6peXKJYi1SiVK1NXYYDFqi8iqKcaXnnTq5RaLDHyJrWWSzQ+oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAd0K+0qkZOdAeagNqt9WhnYpfrxAvlDsCa0UA26x9pMaN0YWfNAgKndmVyc2lvbgE=
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.

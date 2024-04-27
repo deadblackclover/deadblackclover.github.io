@@ -5,9 +5,9 @@
 # Learn more about twtxt at  https://github.com/buckket/twtxt
 #
 # nick        = deadblackclover
-# url         = https://deadblackclover.cipherdogs.net/twtxt.txt
-# avatar      = https://deadblackclover.cipherdogs.net/images/deadblackclover.jpg
-# description = Blockchain Hacker | Decentralized enthusiast | FP hobbyist | CTF
+# url         = https://deadblackclover.net/twtxt.txt
+# avatar      = https://deadblackclover.net/images/deadblackclover.jpg
+# description = FP Hacker | Programming languages nerd | Decentralized enthusiast
 #
 # followers   = 0
 # following   = 5
@@ -20,6 +20,3 @@
 #
 
 2022-02-19T16:30:00Z	Happy Hacking!
-2022-02-19T16:32:00Z	Blockchain на моей шеи
-2022-02-19T16:32:13Z	Еда - это анархия! Живи по своим правилам!
-2022-02-19T16:33:01Z	Псы Всегда Попадают В Рай

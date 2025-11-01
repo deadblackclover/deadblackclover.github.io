@@ -1,3 +1,3 @@
-# deadblackclover.cipherdogs.net
+# deadblackclover.net
 
 My homepage, use PWA
